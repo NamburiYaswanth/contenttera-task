@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/contenttera-task/static/css/main.75d5b8d8.css",
-    "main.js": "/contenttera-task/static/js/main.0cd461fa.js",
-    "index.html": "/contenttera-task/index.html",
-    "main.75d5b8d8.css.map": "/contenttera-task/static/css/main.75d5b8d8.css.map",
-    "main.0cd461fa.js.map": "/contenttera-task/static/js/main.0cd461fa.js.map"
+    "main.css": "/yaswanth/static/css/main.75d5b8d8.css",
+    "main.js": "/yaswanth/static/js/main.0cd461fa.js",
+    "index.html": "/yaswanth/index.html",
+    "main.75d5b8d8.css.map": "/yaswanth/static/css/main.75d5b8d8.css.map",
+    "main.0cd461fa.js.map": "/yaswanth/static/js/main.0cd461fa.js.map"
   },
   "entrypoints": [
     "static/css/main.75d5b8d8.css",
